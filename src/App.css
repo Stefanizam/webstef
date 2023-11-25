@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+  min-height: 100vh;
+  min-width: 100vw;
+  pointer-events: none;
+  display: flex;
+  pointer-events: none;
+  background-color: #282c34;
+  color: white;
+}
+
+.App-logo {
+  height: 40vmin;
+}
